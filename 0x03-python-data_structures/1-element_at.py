@@ -7,7 +7,3 @@ def element_at(my_list, idx):
     else:
         number = my_list[idx]
         print(number)
-
-
-list = [1, 2, 3]
-element_at(list, 1)
